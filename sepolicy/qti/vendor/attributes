@@ -2,4 +2,3 @@
 attribute hal_sony_charger;
 attribute hal_sony_charger_client;
 attribute hal_sony_charger_server;
-attribute hal_bluetooth_default;

@@ -1,7 +1,2 @@
 # HALd
 /(vendor|system/vendor|odm|vendor/odm)/bin/hw/vendor\.sony\.charger-service                  u:object_r:hal_sony_charger_default_exec:s0
-
-# Bluetooth
-/(vendor|system/vendor)/bin/hw/android\.hardware\.bluetooth@1\.[0-9]+-service      u:object_r:hal_bluetooth_default_exec:s0
-/vendor/bin/hw/android\.hardware\.bluetooth@1\.0-service-qti         u:object_r:hal_bluetooth_default_exec:s0
-/vendor/bin/hw/android\.hardware\.bluetooth@1\.1-service-qti         u:object_r:hal_bluetooth_default_exec:s0
